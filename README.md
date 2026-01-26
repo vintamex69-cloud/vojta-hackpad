@@ -1,7 +1,8 @@
 # vojta-hackpad
 my hackclub macropad project for spotify and video editing with volume control
 Cad model:
-<img width="660" height="503" alt="Snímek obrazovky 2026-01-04 224500" src="https://github.com/user-attachments/assets/6736bff7-84f7-481f-b459-89f09fd3ff03" />
+<img width="752" height="577" alt="Snímek obrazovky (5)" src="https://github.com/user-attachments/assets/d94658d5-37db-445e-9710-0bc1662593f3" />
+
 it has 2 parts and should come together with 4x M3 Bolts and heatset inserts for the case.
 
 The case has 2 seperate parts the top keyhole cover and the bottom case for the pcb and everything else
